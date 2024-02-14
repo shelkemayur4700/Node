@@ -1,0 +1,227 @@
+[
+    {
+      "_id": "65cc195d16eb13fdc96c9312",
+      "index": 0,
+      "guid": "6499cb03-38a2-42ee-922b-069ac1d9c470",
+      "isActive": true,
+      "balance": "$3,695.10",
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "eyeColor": "green",
+      "name": "Carly Lambert",
+      "gender": "female",
+      "company": "KRAGGLE",
+      "email": "carlylambert@kraggle.com",
+      "phone": "+1 (889) 536-2061",
+      "address": "580 Brighton Court, Floriston, Connecticut, 8514",
+      "about": "Commodo ea voluptate enim culpa eiusmod velit consequat excepteur dolor eu amet. Irure officia deserunt consequat sint. Excepteur adipisicing occaecat proident est pariatur reprehenderit aliqua minim duis.\r\n",
+      "registered": "2016-04-27T02:03:40 -06:-30",
+      "latitude": 16.965849,
+      "longitude": -61.673687,
+      "tags": [
+        "excepteur",
+        "aliqua",
+        "Lorem",
+        "minim",
+        "enim",
+        "consectetur",
+        "ullamco"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Odom Nicholson"
+        },
+        {
+          "id": 1,
+          "name": "Rosanna Dawson"
+        },
+        {
+          "id": 2,
+          "name": "Morgan Calhoun"
+        }
+      ],
+      "greeting": "Hello, Carly Lambert! You have 7 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "65cc195dc980d5226bb6c2f3",
+      "index": 1,
+      "guid": "d75e96ca-dd46-493d-879f-d7b70036dd25",
+      "isActive": false,
+      "balance": "$2,002.30",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "brown",
+      "name": "Mary Stein",
+      "gender": "female",
+      "company": "CUJO",
+      "email": "marystein@cujo.com",
+      "phone": "+1 (857) 561-3108",
+      "address": "289 Fillmore Place, Grapeview, Minnesota, 3878",
+      "about": "Mollit ea do esse fugiat est ullamco commodo. Duis ea pariatur ea aliqua amet et aliquip Lorem dolor in nostrud. Ipsum incididunt in enim labore cillum incididunt irure esse minim. Ad amet veniam consectetur dolore esse ex consectetur tempor aliquip.\r\n",
+      "registered": "2019-03-21T01:51:37 -06:-30",
+      "latitude": 73.788051,
+      "longitude": -33.285399,
+      "tags": [
+        "id",
+        "in",
+        "aliqua",
+        "officia",
+        "Lorem",
+        "sit",
+        "officia"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Austin Webb"
+        },
+        {
+          "id": 1,
+          "name": "Aileen Montoya"
+        },
+        {
+          "id": 2,
+          "name": "Rosella Aguilar"
+        }
+      ],
+      "greeting": "Hello, Mary Stein! You have 9 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "65cc195d72f654161175a803",
+      "index": 2,
+      "guid": "c6feb34e-94ab-4b9b-8dd1-a6e36b30eae1",
+      "isActive": false,
+      "balance": "$3,044.92",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "blue",
+      "name": "Stevens Galloway",
+      "gender": "male",
+      "company": "KOZGENE",
+      "email": "stevensgalloway@kozgene.com",
+      "phone": "+1 (989) 452-3360",
+      "address": "724 Liberty Avenue, Wanship, Michigan, 8084",
+      "about": "Aliquip quis labore laborum sint ea exercitation aute id anim anim reprehenderit. Consequat sit duis officia cillum minim. Cillum pariatur nostrud labore occaecat est amet elit minim. Sit ipsum incididunt incididunt sit deserunt irure ipsum amet et pariatur nostrud enim sint velit. Ad adipisicing laborum fugiat dolor. Lorem ad nisi culpa amet. Fugiat ullamco nostrud incididunt consequat occaecat cillum irure non.\r\n",
+      "registered": "2023-09-30T08:33:19 -06:-30",
+      "latitude": 18.143295,
+      "longitude": 141.58371,
+      "tags": [
+        "ut",
+        "veniam",
+        "aliqua",
+        "irure",
+        "sit",
+        "adipisicing",
+        "do"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Faye Snider"
+        },
+        {
+          "id": 1,
+          "name": "Berta Walls"
+        },
+        {
+          "id": 2,
+          "name": "Agnes Glover"
+        }
+      ],
+      "greeting": "Hello, Stevens Galloway! You have 3 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "65cc195d2708c3f182c9d0ab",
+      "index": 3,
+      "guid": "4b32d1ab-1fe7-49e3-b49b-73cbc32de754",
+      "isActive": false,
+      "balance": "$3,088.70",
+      "picture": "http://placehold.it/32x32",
+      "age": 27,
+      "eyeColor": "green",
+      "name": "Hammond Alexander",
+      "gender": "male",
+      "company": "REPETWIRE",
+      "email": "hammondalexander@repetwire.com",
+      "phone": "+1 (988) 514-3758",
+      "address": "607 Loring Avenue, Umapine, Indiana, 7987",
+      "about": "Ex exercitation duis id ea nisi consequat non laboris aliquip do sit tempor culpa. Consectetur voluptate reprehenderit nostrud commodo nisi ipsum. Laboris incididunt ad aute duis ex in culpa dolor deserunt amet incididunt ex id aute. Anim in mollit ad quis commodo tempor id. Cillum adipisicing aliquip enim officia exercitation.\r\n",
+      "registered": "2020-11-05T01:50:09 -06:-30",
+      "latitude": 60.134548,
+      "longitude": 143.495978,
+      "tags": [
+        "eu",
+        "do",
+        "qui",
+        "magna",
+        "aliqua",
+        "id",
+        "deserunt"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Lana Larsen"
+        },
+        {
+          "id": 1,
+          "name": "Eddie Wilkerson"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Cash"
+        }
+      ],
+      "greeting": "Hello, Hammond Alexander! You have 7 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "65cc195d91b98e5a50c8b0e7",
+      "index": 4,
+      "guid": "4f4016fe-1dcd-4ee5-832f-3462312c1e1a",
+      "isActive": true,
+      "balance": "$3,058.92",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "eyeColor": "green",
+      "name": "Christensen Hart",
+      "gender": "male",
+      "company": "SPEEDBOLT",
+      "email": "christensenhart@speedbolt.com",
+      "phone": "+1 (993) 600-3704",
+      "address": "785 Kensington Walk, Kempton, Kansas, 3736",
+      "about": "Eiusmod mollit aliqua anim veniam. In laborum nisi labore est. Sint duis nisi cupidatat velit dolor laboris ullamco irure tempor elit velit labore. Proident in commodo do Lorem. In officia do sint excepteur irure sint nisi consectetur.\r\n",
+      "registered": "2018-07-18T08:28:35 -06:-30",
+      "latitude": 86.879576,
+      "longitude": 130.455194,
+      "tags": [
+        "qui",
+        "commodo",
+        "culpa",
+        "incididunt",
+        "culpa",
+        "irure",
+        "aliqua"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Blanca Bentley"
+        },
+        {
+          "id": 1,
+          "name": "Jannie Bowman"
+        },
+        {
+          "id": 2,
+          "name": "Bender Jennings"
+        }
+      ],
+      "greeting": "Hello, Christensen Hart! You have 6 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]

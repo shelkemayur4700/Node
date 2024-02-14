@@ -37,7 +37,14 @@ rl.question("please enter your data to store in file \n", (data) => {
   });
   */
   //write operstion working fine lets try appendfile
+  /*
   fs.appendFile("./todo.txt", `${data}`, (err, res) => {
+    console.log(err);
+    console.log(res);
+  });
+  */
+  fs.unlink("./todo.txt", (err, res) => {
+    //to delete file
     console.log(err);
     console.log(res);
   });
