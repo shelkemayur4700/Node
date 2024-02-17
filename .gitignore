@@ -1,3 +1,6 @@
 /node_modules
 ./node_modules
 /node_modules
+/express/node_modules
+/ExpressStream/node_modules
+/FEforBE/node_modules
