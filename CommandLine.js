@@ -1,14 +1,17 @@
 // Global object in node js  ---> window object
 
-// console.log(JSON.stringify(Object.getOwnPropertyNames(globalThis)));
+// console.log(
+//   "Global Object",
+//   JSON.stringify(Object.getOwnPropertyNames(globalThis))
+// );
 // below statement is about upper line
 // This will print all global variables avilable in node js
 // and you can use them without importing them you can use them without importing
 // node js enviornment knows them already
 
-// console.log(process);  // this will print all the objects in process
+// console.log("process", process); // this will print all the objects in process
 
-// console.log(process.argv); //argv ==> argument vector and vector is like array in js so it is vector in c
+console.log(process.argv); //argv ==> argument vector and vector is like array in js so it is vector in c
 //it returns array of 2 string one is current directory and node program directory
 
 //  you can use it as command line argument as well
@@ -37,17 +40,12 @@
 // console.log(result);
 // command => node CommandLine.js 5, 5  and output=> 10
 
-
-
 //command line using YARGS package
-const yargs = require('yargs/yargs')
-const { hideBin } = require('yargs/helpers')
-const argv = yargs(hideBin(process.argv)).argv
+const yargs = require("yargs/yargs");
+const { hideBin } = require("yargs/helpers");
+const argv = yargs(hideBin(process.argv)).argv;
 
-console.log(argv)
+console.log(argv);
 
 //e.g of command => PS D:\code\NODE\NODE> node CommandLine.js --name=mayur --job=Software
-// output =>   { _: [], name: 'mayur', job: 'Software', '$0': 'CommandLine.js' }  
-
-
-
+// output =>   { _: [], name: 'mayur', job: 'Software', '$0': 'CommandLine.js' }
