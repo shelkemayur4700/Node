@@ -40,7 +40,7 @@ router.get("/", function (req, res, next) {
 router.get("/list", function (req, res, next) {
   res.render("users", { data: data });
 });
-router.get("/userprofile", function (req, res, next) {
+router.get("/userprofile/:id", function (req, res, next) {
   res.render("userprofile"); //express automaticlly go and find file and render it
 });
 

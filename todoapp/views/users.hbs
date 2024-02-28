@@ -2,14 +2,14 @@
     <h1>Users List</h1>
     <table class="table">
         <thead>
-            <th>index</th>
             <th>id</th>
+            <th>index</th>
             <th>phone</th>
         </thead>
         <tbody>
             {{#data}}
             <tr>
-                <td>{{_id}}
+                <td><a href="/userprofile/:{{_id}}">{{_id}}</a>
                 </td>
                 <td>{{index}}</td>
                 <td>{{phone}}</td>
