@@ -1,5 +1,5 @@
 const { createUser } = require("../db/db");
-
+var jwt = require("jsonwebtoken");
 const signup = (req, res, next) => {
   const user = req.body;
   let result = createUser(user);
@@ -19,13 +19,15 @@ const signup = (req, res, next) => {
   }
 };
 // ------------------login------------
-// const signup = (req, res) => {
-//   const user = req.body;
-//   createUser(user);
-//   res.json({
-//     status: "Success",
-//     message: "User Created",
-//   });
-// };
+const login = (req, res) => {
+  //issue the jwt token
+  const token = jwt.sign({ username: req.body.username }, process.env.JWTKEY);
 
-module.exports = { signup };
+  res.json({
+    status: "Success",
+    token: token,
+    message: "User Logged in",
+  });
+};
+
+module.exports = { signup, login };
